@@ -1,5 +1,5 @@
-\# 🧠 Reimagined Goggles  
-*Exploring Privacy, Ethics, and Law in the Age of Artificial Intelligence*  
+# 🧠 Reimagined Goggles  
+### *Exploring Privacy, Ethics, and Law in the Age of Artificial Intelligence*
 
 ---
 
